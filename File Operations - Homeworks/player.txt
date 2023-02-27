@@ -1,0 +1,12 @@
+Fernando Muslera,Galatasaray
+Enner Valencia,Fenerbahçe
+Vincent Aboubakar,Beşiktaş
+Mauro Icardi,Galatasaray
+Arda Güler,Fenerbahçe
+Gedson Fernandes,Beşiktaş
+Niccolo Zaniolo,Galatasaray
+Michy Batshuayi,Fenerbahçe
+Cenk Tosun,Beşiktaş
+Kerem Aktürkoğlu,Galatasaray
+Ferdi Kadıoğlu,Fenerbahçe
+Dele Alli,Beşiktaş
