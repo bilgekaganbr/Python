@@ -1,3 +1,5 @@
+#supermarket application
+
 from supermarket import *
 
 print("""
