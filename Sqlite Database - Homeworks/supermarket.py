@@ -1,3 +1,5 @@
+#supermarket program
+
 import sqlite3
 import time
 
